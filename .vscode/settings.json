@@ -29,6 +29,10 @@
     "**/.vscode/**"
   ],
   "files.associations": {
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "cstring": "cpp",
+    "ostream": "cpp",
+    "vector": "cpp",
+    "cstdlib": "cpp"
   }
 }
