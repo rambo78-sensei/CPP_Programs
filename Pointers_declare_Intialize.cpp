@@ -1,6 +1,6 @@
 /* Pointers are Address variable. Address Variable are used for storing the address.
 
-Declararation of Pointer " int p; "
+Declararation of Pointer " int *p; "
 initialization of pointer " p = &x;"
 Dereferencing of Pointer  " *p; "
 Dereferencing means wherever the pointer is pionting , we are 
